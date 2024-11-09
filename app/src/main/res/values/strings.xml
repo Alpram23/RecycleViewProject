@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecycleViewProject</string>
+    <string name="horizontal_list_of_items">Horizontal list of items</string>
+    <string name="vertical_list_of_items">Vertical list of items</string>
+    <string name="item_image_desc">item_image_desc</string>
+</resources>
